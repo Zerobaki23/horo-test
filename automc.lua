@@ -1,5 +1,4 @@
 task.wait(10)
-setfpscap(15)
 local TweenService = game:GetService("TweenService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Players = game:GetService("Players")
